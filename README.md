@@ -1,4 +1,4 @@
-# 📊 Sales Prediction Using Machine Learning
+# 📊 Sales Prediction Using Python
 
 ## 📌 Description
 This project predicts product sales based on advertising expenditure on TV, Radio, and Newspaper using Machine Learning.
